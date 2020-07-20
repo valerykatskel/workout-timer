@@ -18,7 +18,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "systems.codim.workout-timer",
+      "package": "systems.codim.workout_timer",
       "versionCode": 1
     },
     "web": {
